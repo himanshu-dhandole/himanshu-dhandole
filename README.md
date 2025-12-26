@@ -1,115 +1,221 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:243694,50:264b96,100:2d5a9b&height=120&section=header&fontSize=0" />
+# 👋 Himanshu D Dhandole
 
-# Himanshu Dhandole
+**Blockchain Engineer** · **DeFi** · **Full-Stack Builder**
 
-**Blockchain Engineer** • Building production-grade DeFi infrastructure
+```ascii
+██████╗ ███████╗███████╗██╗    
+██╔══██╗██╔════╝██╔════╝██║    
+██║  ██║█████╗  █████╗  ██║    
+██║  ██║██╔══╝  ██╔══╝  ██║    
+██████╔╝███████╗██║     ██║    
+╚═════╝ ╚══════╝╚═╝     ╚═╝    
+```
 
+[![Email](https://img.shields.io/badge/Email-dhandolehimanshu%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhandolehimanshu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin)
+[![Location](https://img.shields.io/badge/📍-Nagpur%2C%20India-green?style=flat-square)]()
+
+</div>
+
+---
+
+## 🎯 What I Do
+
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract Himanshu {
+    string public constant ROLE = "DeFi Protocol Engineer";
+    
+    function expertise() external pure returns (string[] memory) {
+        return ["Solidity", "Protocol Design", "MEV", "Yield Systems"];
+    }
+}
+```
+
+I build **capital-efficient DeFi infrastructure** — perpetual exchanges, yield optimizers, and automated market makers that handle **real money** on-chain.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Blockchain
 <p>
-<a href="https://github.com/himanshu-dhandole"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/himanshu-dhandole"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white" />
+<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white" />
+<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
+<img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
+<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
+</p>
+
+### Backend & Databases
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### Frontend
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+### Tools
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 </div>
 
-<img align="right" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTNyaHR6MjBiMzg3dDdxZm9mYXZ0ZGtyMmV0aGdzMTN5djY5cXNidSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-### About
-
-Writing smart contracts for decentralized derivatives and yield optimization. Focused on protocols that work in production, not just on testnets.
-
-
-<br clear="right"/>
 
 ---
 
-## Featured Work
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Perpex
-**Decentralized Perpetuals Exchange**
+### 🔥 PERP-EX
+**On-Chain Perpetual Exchange**
 
-On-chain perpetual futures with composable leverage mechanics. vAMM architecture, NFT-backed positions, battle-tested liquidation engine.
+```typescript
+const features = {
+  positions: "ERC-1155 NFTs",
+  pricing: "vAMM Model",
+  liquidation: "Automated",
+  monitoring: "Real-time Indexer"
+};
+```
 
-`Solidity` `Foundry` `vAMM` `ERC-721`
-
-<a href="https://github.com/himanshu-dhandole/perpex">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-dhandole&repo=perpex&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&border_radius=6&hide_border=false" width="100%"/>
-</a>
+**Tech:** Solidity, Foundry, Chainlink  
+**Highlight:** Transferable NFT positions with autonomous liquidation engine
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Flexi-Yields
-**AI Yield Optimizer**
+### 🧠 FLEXI-YIELD
+**AI-Driven Yield Optimizer**
 
-ML-driven protocol that dynamically allocates capital across DeFi pools. Predicts and routes to highest-performing opportunities.
+```python
+def optimize_yield():
+    best_apy = ml_model.predict()
+    vault.rebalance(best_apy)
+    return "Capital Efficiency ↑"
+```
 
-`Python` `ML` `Web3.py` `Smart Contracts`
-
-<a href="https://github.com/himanshu-dhandole/flexi-yields">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-dhandole&repo=flexi-yields&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&border_radius=6&hide_border=false" width="100%"/>
-</a>
+**Tech:** ERC-4626, Python ML, EIP-712  
+**Highlight:** Auto-rebalancing vaults with ML-based APY prediction
 
 </td>
 </tr>
 </table>
 
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
-<table>
-<tr>
-<td width="100%">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=himanshu-dhandole&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF&include_all_commits=true&count_private=true"
+  />
 
-### PlanIt
-**Event Management Platform**
-
-Full-stack event coordination with automated registration, scheduling, and attendee management. Built for scale.
-
-`React` `Node.js` `MongoDB` `Express`
-
-<a href="https://github.com/himanshu-dhandole/planit">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-dhandole&repo=planit&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&border_color=30363d&border_radius=6&hide_border=false" width="48%"/>
-</a>
-
-</td>
-</tr>
-</table>
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=himanshu-dhandole&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=FF6B6B&currStreakLabel=8B5CF6&sideLabels=FFFFFF"
+  />
 </div>
+
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-dhandole&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=FFFFFF&langs_count=8"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-dhandole&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FF6B6B"
+  />
+</div>
+
+
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🥈 **Technex Hackathon 2025** | 🥉 **Enkryptia Hackathon 2024** |
+|:---:|:---:|
+| *1st Runner-Up* | *2nd Runner-Up* |
+| LeafLink Platform | Mentorship Platform |
+
+</div>
+
+---
+
+## 🎓 Current Focus
+
+```mermaid
+graph LR
+    A[MEV Research] --> B[zkSNARKs]
+    B --> C[Cross-Chain]
+    C --> D[Privacy-First DeFi]
+    style A fill:#8B5CF6
+    style B fill:#8B5CF6
+    style C fill:#8B5CF6
+    style D fill:#8B5CF6
+```
+
+* **MEV & Order-Flow** - Understanding value extraction mechanics
+* **zkSNARKs** - Privacy-preserving DeFi protocols
+* **Cross-Chain** - Secure messaging & settlement layers
+
+---
+
+## 💼 Open To
+
+✅ Core protocol engineering roles  
+✅ Early-stage Web3 startups  
+✅ Research-heavy DeFi builds  
+✅ High-stakes hackathons  
 
 ---
 
 <div align="center">
 
-## Tech Stack
+### 📫 Let's Build Together
 
-<img src="https://skillicons.dev/icons?i=solidity,typescript,javascript,react,nodejs,mongodb,postgres,docker,git,github,vscode&theme=dark&perline=6" />
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhandolehimanshu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-dhandole/)
+
+---
+
+**"Coding without music is a MISTAKE"**
 
 </div>
 
 ---
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=himanshu-dhandole&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&border_color=30363d&border_radius=6&hide_border=false&count_private=true&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=himanshu-dhandole&theme=dark&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e&currStreakNum=58a6ff&sideNums=58a6ff&border=30363d&stroke=30363d" />
-
-</div>
-
-<div align="center">
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-dhandole&bg_color=0d1117&color=58a6ff&line=58a6ff&point=8b949e&area=true&hide_border=false&border_color=30363d&title_color=58a6ff&custom_title=Contribution%20Graph" />
-</div>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-**Building the financial infrastructure of tomorrow**
-
-
-</div>
