@@ -1,135 +1,61 @@
-<div align="center">
+# Himanshu Dhandole 👨‍💻
 
-# 👋 Himanshu D Dhandole
+**Full Stack Java Developer** | **Blockchain Engineer**
 
-**Blockchain Engineer** · **DeFi** · **Full-Stack Builder**
+Nagpur, Maharashtra, India
 
-```ascii
-██████╗ ███████╗███████╗██╗    
-██╔══██╗██╔════╝██╔════╝██║    
-██║  ██║█████╗  █████╗  ██║    
-██║  ██║██╔══╝  ██╔══╝  ██║    
-██████╔╝███████╗██║     ██║    
-╚═════╝ ╚══════╝╚═╝     ╚═╝    
-```
+### 🔗 Connect
 
-[![Email](https://img.shields.io/badge/Email-dhandolehimanshu%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhandolehimanshu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin)
-[![Location](https://img.shields.io/badge/📍-Nagpur%2C%20India-green?style=flat-square)]()
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhandolehimanshu@gmail.com)
 
 ---
 
-## 🎯 What I Do
+## 🛠️ Tech Stack
 
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
-
-contract Himanshu {
-    string public constant ROLE = "DeFi Protocol Engineer";
-    
-    function expertise() external pure returns (string[] memory) {
-        return ["Solidity", "Protocol Design", "MEV", "Yield Systems"];
-    }
-}
-```
-
-I build **capital-efficient DeFi infrastructure** — perpetual exchanges, yield optimizers, and automated market makers that handle **real money** on-chain.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Blockchain
-<p>
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Polygon-7B3FE4?style=for-the-badge&logo=polygon&logoColor=white" />
-<img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white" />
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black" />
-<img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=ethereum&logoColor=white" />
-<img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" />
-</p>
-
-### Backend & Databases
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
 ### Frontend
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### Tools
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
+### Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-4A90E2?style=flat-square&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
-</div>
-
+### Data & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 🎓 Current Focus
+## 🎯 What I Build
 
-```mermaid
-graph LR
-    A[MEV Research] --> B[zkSNARKs]
-    B --> C[Cross-Chain]
-    C --> D[Privacy-First DeFi]
-    style A fill:#8B5CF6
-    style B fill:#8B5CF6
-    style C fill:#8B5CF6
-    style D fill:#8B5CF6
-```
+**Java:** Spring Boot microservices, REST APIs, distributed systems, real-time apps (WebSockets, Kafka)
 
-* **MEV & Order-Flow** - Understanding value extraction mechanics
-* **zkSNARKs** - Privacy-preserving DeFi protocols
-* **Cross-Chain** - Secure messaging & settlement layers
+**Blockchain:** Solidity contracts, DeFi protocols, security audits, gas optimization
 
 ---
 
-## 💼 Open To
+## 🏆 Highlights
 
-✅ Core protocol engineering roles  
-✅ Early-stage Web3 startups  
-✅ Research-heavy DeFi builds  
-✅ High-stakes hackathons  
-
----
-
-<div align="center">
-
-### 📫 Let's Build Together
-
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhandolehimanshu@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-dhandole/)
+⭐ **3× National Hackathon Winner** (500+ participants)  
+⭐ **Top 5% NPTEL Blockchain** certification (IIT Kharagpur)  
+⭐ **ETHGlobal** Delhi & HackMoney participant  
+⭐ Production-grade Java & blockchain systems
 
 ---
 
-**"Coding without music is a MISTAKE"**
+## 🚀 Open to
 
-</div>
-
----
+**Java Fullstack Developer** | **Smart Contract Developer** roles
